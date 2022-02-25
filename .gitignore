@@ -1,0 +1,17 @@
+/.idea
+/10 - LSTM
+/11.1 - Dimension reduction
+/11.2 - Autoencoders
+/2 - Classification & regression
+/3 - Classigication metrics
+/5 - Optimization methods
+/7 - NLP
+/8 - ML general pipeline
+/9 - CNN
+**.DS_Store
+**/.ipynb_checkpoints
+**.docx
+**.csv
+/Tasks/Task 4/11-0.txt
+
+
